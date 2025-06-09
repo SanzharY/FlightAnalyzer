@@ -29,6 +29,8 @@
 
 - `Python `
 - `Pandas`, `NumPy` — обработка данных
+- `PostgreSQL`  — хранение и запросы данных о перелётах
+- `SQLAlchemy` / `psycopg2` / `sqlite3` — подключение к БД из Python
 - `Plotly`, `Seaborn`, `Matplotlib` — визуализация
 - `Streamlit` — создание веб-интерфейса
 - `Geopandas` и `Mapbox` (для гео-визуализации)
